@@ -48,7 +48,6 @@ class LinksUpworkSpider < Kimurai::Base
   end
 
   def solve_recaptcha(recaptcha_key, current_url)
-    sleep(15)
     options = {
       googlekey: "#{recaptcha_key}",
       pageurl: "#{current_url}"

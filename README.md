@@ -1,5 +1,5 @@
 # kimura-upwork
-# requires 2captcha and kimurai gems
+requires 2captcha and kimurai gems
 
 1. Парсинг ссылок на профили (links upwork)
 2. Парсинг профилей (freelancers upwork)
